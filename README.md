@@ -4,9 +4,9 @@ I'm a passionate **Software Engineer** who loves building scalable web applicati
 
 ## 🚀 Technologies & Tools
 
-- **Languages:** JavaScript, TypeScript, PHP, C++
+- **Languages:** JavaScript, TypeScript, PHP
 - **Front-end:** React.js, Next.js, Vue.js, Material-UI, Tailwind, Bootstrap
-- **Back-end:** Nest.js, Node.js, Express.js, Laravel, Ruby on Rails, ASP.NET
+- **Back-end:** Nest.js, Node.js, Express.js, Laravel, Ruby on Rails
 - **Platforms & Tools:** PostgreSQL, MySQL, AWS, Plesk, Heroku, Vercel, Netlify, Jira, Git
 
 ## 🔧 Projects at a Glance
