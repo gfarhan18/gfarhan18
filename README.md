@@ -1,6 +1,6 @@
 # Hi there, I'm Farhan 👋
 
-I'm a passionate **Software Engineer** who loves building scalable web applications and seamless user experiences. Currently, I'm working remotely at **Fluencr**, where I integrate third-party APIs, craft intuitive UIs with React and Material-UI, and design robust RESTful APIs with Nest.js.
+I'm a passionate **Software Engineer** who loves building scalable web applications and seamless user experiences. Currently, I'm working remotely with international clients, where I integrate third-party APIs, craft intuitive UIs with React and Material-UI, and design robust RESTful APIs with Nest.js.
 
 ## 🚀 Technologies & Tools
 
