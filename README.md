@@ -22,7 +22,9 @@ Exploring advanced cloud computing, microservices architecture, and the latest t
 ## 📫 Let's Connect
 
 - **Email:** [gfarhan18@gmail.com](mailto:gfarhan18@gmail.com)
-- **LinkedIn:** [linkedin.com/farhan](https://linkedin.com/farhan)
+- **LinkedIn:** [linkedin.com/farhan]([https://linkedin.com/farhan](https://www.linkedin.com/in/m-farhan-16033019b/))
 - **GitHub:** [gfarhan18](https://github.com/gfarhan18)
+- **Portfolio:** [gfarhan18](https://farhan-portfolio-mocha.vercel.app/)
+  
 
 Thanks for stopping by—feel free to explore my repositories and reach out if you’d like to collaborate or chat about tech! 😊
